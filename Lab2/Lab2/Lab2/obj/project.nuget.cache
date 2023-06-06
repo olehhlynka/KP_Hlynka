@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tkBH8zF9rQPUTBshVGinXQop7nQhuGG2tj4zvLcKljCoqp4kHlUHJ1rvqzPVa2DjKx/89qpy3QsxJOktdjfGw==",
+  "dgSpecHash": "V4P9B6aEyul8W07fzVHe2iKZ92nQEpxOtVovjcRvrFdysDTb3x8yKJhXHr04afgj2xGnrOQ/TLEmVj9CjzahHA==",
   "success": true,
-  "projectFilePath": "D:\\Lab2 (3)\\Lab2\\Lab2\\CPP_Lab2.csproj",
+  "projectFilePath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\CPP_Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",

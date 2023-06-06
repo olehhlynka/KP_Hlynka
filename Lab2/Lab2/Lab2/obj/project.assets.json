@@ -34628,11 +34628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab2 (3)\\Lab2\\Lab2\\CPP_Lab2.csproj",
+      "projectUniqueName": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\CPP_Lab2.csproj",
       "projectName": "CPP_Lab2",
-      "projectPath": "D:\\Lab2 (3)\\Lab2\\Lab2\\CPP_Lab2.csproj",
+      "projectPath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\CPP_Lab2.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab2 (3)\\Lab2\\Lab2\\obj\\",
+      "outputPath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

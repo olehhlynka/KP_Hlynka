@@ -6828,11 +6828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Lab2 (3)\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
+      "projectUniqueName": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
       "projectName": "Lab2X.Tests",
-      "projectPath": "D:\\Lab2 (3)\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
+      "projectPath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Lab2 (3)\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\obj\\",
+      "outputPath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6854,8 +6854,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Lab2 (3)\\Lab2\\Lab2\\CPP_Lab2.csproj": {
-              "projectPath": "D:\\Lab2 (3)\\Lab2\\Lab2\\CPP_Lab2.csproj"
+            "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\CPP_Lab2.csproj": {
+              "projectPath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2\\CPP_Lab2.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wZfPTzMq1SNICBnbiGmO2kTz/+GWQuOldDLQ1Xt8G5qdnYiyOVDI62tofO0RyHKIxtETt6yAxDOJHGokKbMmfw==",
+  "dgSpecHash": "r+DZbr5Agc1LQmk+TZLltZeqqLlIawnDxbDRmSAADY/fCLyq704Zk1ejIA+D2w6nvSY+MyeatIuHhYm3EgABIw==",
   "success": true,
-  "projectFilePath": "D:\\Lab2 (3)\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
+  "projectFilePath": "D:\\KP_Hlynka\\Lab2\\Lab2\\Lab2X.Tests\\Lab2X.Tests\\Lab2X.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

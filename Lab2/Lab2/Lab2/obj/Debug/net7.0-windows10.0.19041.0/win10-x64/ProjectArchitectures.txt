@@ -1,1 +1,0 @@
-D:\Lab2 (3)\Lab2\Lab2\CPP_Lab2.csproj;x64
